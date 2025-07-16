@@ -4,3 +4,4 @@ node_modules/
 dist/
 .venv/
 .cache/
+.pytest_cache/
